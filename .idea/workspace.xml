@@ -2,88 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0f20f76-9eb3-4bb2-be71-7cc75a0aec3f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-08-16-miui6.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-09-04-is-pure-android-better.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-10-01-why-alibaba-ux-sucks.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-11-20-responsive-web-design.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-12-13-wechat-block-kuaidi.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-03-10-apple-event-2015.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-03-25-digital-native.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-03-31-e2e_user_scenarios.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-04-14-unix-linux-note.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-04-15-os-metro.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-05-11-see-u-ali.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-05-25-js-module-loader.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-06-15-alitrip-strategy.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-07-09-js-module-7day.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-09-22-js-version.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-10-28-how-designer-learn-fe.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-12-15-ios9-safari-web.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-12-28-css-sucks-2015.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-02-01-React-vs-Angular2.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-06-05-pwa-in-my-pov.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-08-15-welcome-to-jekyll.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attach/2015_Hux_SDE_cn.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attach/2015_Hux_SDE_en.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attach/2015_Hux_UX &amp; PD_cn.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attach/2015_Hux_UX &amp; PD_en.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attach/2016_Hux_DEV_en.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attach/2016_Hux_en_PD.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attach/2016_Hux_en_SE.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/avatar-hux.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/avatar-sea-hux.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/blog-desktop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/blog-keynote.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/blog-md-navbar.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/blog-sidebar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/icon_wechat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/forcify.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/open-source-license.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.013.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.014.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.016.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.018.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.019.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.020.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.021.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.023.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.026.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.028.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.029.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.030.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.031.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-c-u-ali-079717.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-c-u-ali-memo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-c-u-ali-team.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-js-version/javascript-java.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-js-version/keep-calm-and-learn-javascript.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-kuaidi-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-kuaidi-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-metro-panorama.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-metro-real.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/in-post/post-metro-ui.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-2015.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-alibaba.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-alitrip.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-android.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-apple-event-2015.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-digital-native.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-e2e-ux.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-ios9-web.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-js-module.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-js-version.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-kuaidi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-miui-ux.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-miui6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-os-metro.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-re-vs-ng2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-rwd.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-see-u-ali.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-universe.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-unix-linux.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-bg.jpg" afterPath="$PROJECT_DIR$/img/about-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/css/timeline.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/fonts/huxico.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/fonts/huxico.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/fonts/huxico.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/fonts/huxico.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/hux_avatar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/intern-alitrip.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/intern-lxu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/logo-jquery.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/logo-kissy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/logo-react.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/logo-vue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/newmedia.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/senova.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/work-busyweek.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/work-hslider.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/work-puzzle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/work-truth.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/work-uihome.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/work-wepiao-bo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/js/modernizr.custom.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
     </list>
     <ignored path="TonyLuta.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -104,50 +45,7 @@
     <favorites_list name="TonyLuta.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="contact-bg.jpg" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/img/contact-bg.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home-bg-o.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/home-bg-o.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home-bg-geek.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/home-bg-geek.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home-bg-art.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/home-bg-art.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home-bg.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/home-bg.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="favicon.ico" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/favicon.ico">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -156,6 +54,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
       </list>
     </option>
   </component>
@@ -217,20 +116,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TonyLuta.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TonyLuta.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_posts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -284,9 +169,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3828756" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1898223" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -374,6 +259,46 @@
     <entry file="file://$PROJECT_DIR$/img/contact-bg.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.2647929">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5576923">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.0828404">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.535714">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1804733">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
