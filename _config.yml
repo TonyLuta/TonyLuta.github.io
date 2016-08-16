@@ -1,7 +1,7 @@
 # Site settings
 title: Tony Luta Blog
 SEOTitle: Tony Luta | Tony Luta Blog
-header-img: img/home-bg.jpg
+header-img: home-bg2.jpg
 email: tony.lutaa@gmail.com
 description: "关注于PHP语言开发、移动电商APP服务设计与提供 | 这里是 @Tony Luta 的个人博客，与你一起发现更大的世界。"
 keyword: "Tony, Tony Luta, Luta, 李朋, @tonyluta, 李朋的博客, Tony Luta Blog, 博客, 个人网站, 互联网, PHP"
@@ -84,3 +84,6 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
 ]
+
+#CDN
+img_cdn: "http://obzqu0kxf.bkt.clouddn.com"
