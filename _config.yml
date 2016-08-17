@@ -8,6 +8,7 @@ keyword: "Tony, Tony Luta, Luta, 李朋, @tonyluta, 李朋的博客, Tony Luta B
 #url: "https://tonyluta.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 sefe: false
+host: "https://tonyluta.github.io"
 
 
 
