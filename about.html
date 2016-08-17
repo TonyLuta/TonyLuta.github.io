@@ -19,14 +19,14 @@ header-img: "about-bg.jpg"
 <!-- 多说评论框 start -->
 <div class="comment">
     <div class="ds-thread"
-    {% if site.duoshuo_username == "tony" %}
+    {% if site.duoshuo_username == "tonyluta" %}
         data-thread-id="1187623191091085319"
     {% else %}
         data-thread-key="{{site.duoshuo_username}}/about"
     {% endif %}
 
     data-title="{{page.title}}"
-    data-url="{{site.url}}/about/"></div>
+    data-url="{{site.host}}/about/"></div>
 </div>
 <!-- 多说评论框 end -->
 
@@ -64,7 +64,7 @@ header-img: "about-bg.jpg"
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = "{{site.disqus_username}}";
     var disqus_identifier = "{{site.disqus_username}}/{{page.url}}";
-    var disqus_url = "{{site.url}}{{page.url}}";
+    var disqus_url = "{{site.host}}{{page.url}}";
 
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
