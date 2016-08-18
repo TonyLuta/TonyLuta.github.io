@@ -37,6 +37,10 @@ tags:
 
 最大的缺点可能是 GitHub 在国内访问起来太慢
 
+	<script>
+		alert('123123');
+	</script>
+
 
 ## 后记
 
