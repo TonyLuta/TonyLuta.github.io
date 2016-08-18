@@ -26,7 +26,7 @@ header-img: "about-bg.jpg"
     {% endif %}
 
     data-title="{{page.title}}"
-    data-url="{{site.host}}/about/"></div>
+    data-url="{{site.host_url}}/about/"></div>
 </div>
 <!-- 多说评论框 end -->
 
@@ -64,7 +64,7 @@ header-img: "about-bg.jpg"
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = "{{site.disqus_username}}";
     var disqus_identifier = "{{site.disqus_username}}/{{page.url}}";
-    var disqus_url = "{{site.host}}{{page.url}}";
+    var disqus_url = "{{site.host_url}}{{page.url}}";
 
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;

@@ -69,7 +69,7 @@ layout: default
                     style="text-align: right"
                     data-thread-key="{{page.id}}"
                     data-title="{{page.title}}"
-                    data-url="{{site.host}}{{page.url}}"
+                    data-url="{{site.host_url}}{{page.url}}"
                     data-images="{{ site.img_cdn }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}"
                     data-content="{{ content | strip_html | truncate:80 }} | {{ site.SEOTitle }} " >
                     <div class="ds-share-inline">
@@ -114,7 +114,7 @@ layout: default
                     <div class="ds-thread"
                         data-thread-key="{{page.id}}"
                         data-title="{{page.title}}"
-                        data-url="{{site.host}}{{page.url}}" >
+                        data-url="{{site.host_url}}{{page.url}}" >
                     </div>
                 </div>
                 <!-- 多说评论框 end -->
