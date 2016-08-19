@@ -37,9 +37,20 @@ tags:
 
 最大的缺点可能是 GitHub 在国内访问起来太慢
 
-	<script>
-		alert('123123');
-	</script>
+
+```php
+<?php
+    echo "hello world";
+
+    class Test{
+        function say(){
+            $hello = 'hello world';
+            echo $hello;
+        }
+    }
+```
+
+
 
 
 ## 后记
